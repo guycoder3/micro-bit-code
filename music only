@@ -1,0 +1,8 @@
+music.setVolume(255);
+music.play(music.stringPlayable("C5 A G G G B E F ", 120), music.PlaybackMode.UntilDone);
+music.play(music.stringPlayable("C5 G E C F B F G ", 120), music.PlaybackMode.UntilDone);
+music.play(music.stringPlayable("C5 F D C5 F D F C5 ", 120), music.PlaybackMode.UntilDone);
+music.play(music.stringPlayable("A F G A F D C5 B ", 120), music.PlaybackMode.UntilDone);
+music.play(music.stringPlayable("C C C D C C D E ", 120), music.PlaybackMode.UntilDone);
+music.play(music.stringPlayable("F G G F C C C5 F ", 120), music.PlaybackMode.UntilDone);
+music.play(music.stringPlayable("C C C C C5 C C - ", 120), music.PlaybackMode.UntilDone);
