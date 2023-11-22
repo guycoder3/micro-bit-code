@@ -1,0 +1,5 @@
+basic.showString("inspirational stuff");
+music.play(music.stringPlayable("C5 G D D C A B D ", 125), music.PlaybackMode.UntilDone);
+basic.showString("you matter");
+music.play(music.stringPlayable("C5 G D D C A B D ", 125), music.PlaybackMode.UntilDone);
+basic.showString("you are important");
